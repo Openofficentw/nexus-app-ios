@@ -1,0 +1,7 @@
+{
+  "name": "nfcapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
